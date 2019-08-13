@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 49,
+    "Title": "Convert all projects to Visual Studio 2010"
+  },
+  {
+    "Id": 50,
+    "Title": "Upgrade Composite and State patterns to .NET"
+  },
+  {
+    "Id": 51,
+    "Title": "Add Head First implementation of Model-View-Controller"
+  },
+  {
+    "Id": 52,
+    "Title": "Add Microsoft implementation of Model-View-Controller"
+  },
+  {
+    "Id": 53,
+    "Title": "Review projects with the chapters in the book"
+  },
+  {
+    "Id": 54,
+    "Title": "Add header file to source files"
+  },
+  {
+    "Id": 60,
+    "Title": "Convert all project target frameworks to .NET Framework 4 Client Profile"
+  }
+]

@@ -10,6 +10,17 @@ namespace WzorceProjektowe
     {
         static void Main(string[] args)
         {
+
+            Kaczka dzika = new DzikaKaczka();
+            dzika.wykonajKwacz();
+            dzika.wykonajLeć();
+            Console.ReadLine();
+            Kaczka model = new ModelKaczki();
+            model.wykonajLeć();
+            model.ustawLatanieInterfejs(new LotzNapędemRakietowym());
+            model.wykonajLeć();
+            Console.ReadLine();
+
         }
     }
 }

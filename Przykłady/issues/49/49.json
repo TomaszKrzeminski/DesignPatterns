@@ -1,0 +1,65 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Convert all projects to Visual Studio 2010",
+    "LastUpdatedDate": "2013-06-14T01:00:43.257-07:00",
+    "PlannedForRelease": "Head First Design Patterns - CSharp Examples v0.1",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "HFPatternsInCSharp",
+    "ReportedDate": "2010-11-21T15:07:06.377-08:00",
+    "Status": {
+      "Name": "Resolved",
+      "Id": 7
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Convert all projects to Visual Studio 2010",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 49
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Implemented in version v0.1.",
+      "PostedDate": "2010-11-21T15:20:28.01-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T18:42:27.797-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T23:44:14.327-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T23:44:14.463-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-06-14T01:00:43.257-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

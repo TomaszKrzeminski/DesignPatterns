@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wzorzec Chain of Responsibility Łańcuch zobo", "Wzorzec Chain of Responsibility Łańcuch zobo\Wzorzec Chain of Responsibility Łańcuch zobo.csproj", "{C5637F5F-155A-43D4-948D-2E9F88869641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5637F5F-155A-43D4-948D-2E9F88869641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5637F5F-155A-43D4-948D-2E9F88869641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5637F5F-155A-43D4-948D-2E9F88869641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5637F5F-155A-43D4-948D-2E9F88869641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14284056-9E85-4F74-B9E0-38B18BB80941}
+	EndGlobalSection
+EndGlobal
